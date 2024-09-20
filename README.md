@@ -1,2 +1,2 @@
 # Calculadora-simples
-Calculadora básica (JS, HTML e CSS).
+Calculadora simples (JS, HTML e CSS).
